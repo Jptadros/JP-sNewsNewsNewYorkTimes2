@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/drawable/ic_border_gray.xml" value="0.7555555555555555" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_about_us.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_change_password.xml" value="0.35625" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_edit_profile.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_home.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_login.xml" value="0.10235507246376811" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_main.xml" value="0.10235507246376811" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_news.xml" value="0.25" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_sign_up.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/activity_web_news.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/content_login.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/fragment_first.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/fragment_second.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/ic_border_gray.xml" value="0.1984375" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/layout/news_item.xml" value="0.35625" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsNewYorkTimes/app/src/main/res/xml/network_security_config.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
